@@ -7,13 +7,13 @@ Play against a friend in the browser with a clean and responsive UI.
 
 ## 🔗 Live Demo
 
-👉 [Play the game now](https://hemanth-361.github.io/tic-tac-toe-game/)
+👉 [Play the game now]([https://hemanth-361.github.io/tic-tac-toe-game/](https://hemanth-361.github.io/tic-tac-toe-game/))
 
 ---
 
 ## 🖼️ Preview
 
-![Tic Tac Toe Screenshot](assets/screenshot.png) <!-- Replace or rename with your actual screenshot -->
+![Tic Tac Toe Screenshot](screenshot.png) <!-- Replace or rename with your actual screenshot -->
 
 ---
 
