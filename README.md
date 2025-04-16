@@ -13,7 +13,7 @@ Play against a friend in the browser with a clean and responsive UI.
 
 ## 🖼️ Preview
 
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Replace or rename with your actual screenshot -->
+![Tic Tac Toe Screenshot](Screenshot.png) <!-- Replace or rename with your actual screenshot -->
 
 ---
 
