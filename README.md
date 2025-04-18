@@ -7,7 +7,7 @@ Play against a friend in the browser with a clean and responsive UI.
 
 ## 🔗 Live Demo
 
-👉 [Play the game now]([https://hemanth-361.github.io/tic-tac-toe-game/](https://hemanth-361.github.io/tic-tac-toe-game/))
+👉 [Play the game now](https://hemanth-361.github.io/tic-tac-toe-game/)
 
 ---
 
